@@ -1,5 +1,5 @@
 import CoreConcept from "./CoreConcept";
-import { CORE_CONCEPTS, TEAM_MEMBERS } from "../data";
+import { TEAM_MEMBERS } from "../data";
 
 export default function CoreConcepts() {
   return (

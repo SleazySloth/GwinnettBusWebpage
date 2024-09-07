@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-import { EXAMPLES, DOCUMENTS } from "../data";
+import { DOCUMENTS } from "../data";
 import TabButton from "./TabButton";
 import Section from "./Section";
 import Tabs from "./Tabs";
